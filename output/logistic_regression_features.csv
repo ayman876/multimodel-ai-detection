@@ -1,0 +1,112 @@
+Feature
+alert
+alert benign
+alert benign using
+alert bot
+alert bot using
+alert ddos
+alert ddos using
+alert dos
+alert dos goldeneye
+alert dos hulk
+alert dos slowhttptest
+alert dos slowloris
+alert ftp
+alert ftp patator
+alert heartbleed
+alert heartbleed using
+alert infiltration
+alert infiltration using
+alert portscan
+alert portscan using
+alert ssh
+alert ssh patator
+alert web
+alert web attack
+attack
+attack brute
+attack brute force
+attack sql
+attack sql injection
+attack xss
+attack xss using
+benign
+benign using
+benign using protocol
+bot
+bot using
+bot using protocol
+brute
+brute force
+brute force using
+ddos
+ddos using
+ddos using protocol
+dos
+dos goldeneye
+dos goldeneye using
+dos hulk
+dos hulk using
+dos slowhttptest
+dos slowhttptest using
+dos slowloris
+dos slowloris using
+force
+force using
+force using protocol
+ftp
+ftp patator
+ftp patator using
+goldeneye
+goldeneye using
+goldeneye using protocol
+heartbleed
+heartbleed using
+heartbleed using protocol
+hulk
+hulk using
+hulk using protocol
+infiltration
+infiltration using
+infiltration using protocol
+injection
+injection using
+injection using protocol
+patator
+patator using
+patator using protocol
+portscan
+portscan using
+portscan using protocol
+protocol
+protocol tcp
+protocol udp
+protocol unknown
+slowhttptest
+slowhttptest using
+slowhttptest using protocol
+slowloris
+slowloris using
+slowloris using protocol
+sql
+sql injection
+sql injection using
+ssh
+ssh patator
+ssh patator using
+tcp
+udp
+unknown
+using
+using protocol
+using protocol tcp
+using protocol udp
+using protocol unknown
+web
+web attack
+web attack brute
+web attack sql
+web attack xss
+xss
+xss using
+xss using protocol
