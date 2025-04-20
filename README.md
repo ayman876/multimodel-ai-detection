@@ -31,7 +31,7 @@ Run with Docker
 
 Clone the project:
 
-git clone https://github.com/yourusername/multimodel-ai-detection.git
+git clone https://github.com/ayman876/multimodel-ai-detection.git
 
 cd multimodel-ai-detection
 
