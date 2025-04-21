@@ -20,6 +20,7 @@ This project is an AI-powered cyberattack detection system that fuses structured
 - **API**: FastAPI-based RESTful service supporting traffic, alert, and fusion prediction endpoints.
 
 ---
+## [Full Documentation link](https://docs.google.com/document/d/1O2GH3VQF_csfraU7dmahdYb4ZMB6qGsP/edit?usp=drive_link&ouid=104920214366570664064&rtpof=true&sd=true)
 ## Model Evaluation Results
 Model Performance
 - **Model 1 (Random Forest)**
